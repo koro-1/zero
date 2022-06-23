@@ -8,6 +8,7 @@ public class compareVersion {
             int x = 0, y = 0;
             if (i < v1.length) {
                 x = Integer.parseInt(v1[i]);
+                //asd
             }
             if (i < v2.length) {
                 y = Integer.parseInt(v2[i]);
